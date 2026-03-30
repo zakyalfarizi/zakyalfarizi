@@ -19,7 +19,7 @@
 
 ```javascript
 const [namaKamu] = {
-  role:       "Frontend Developer",
+  role:       "Frontend Developer with Next Js",
   specialist: "Next.js & React",
   location:   "[Kota Kamu], Indonesia 🇮🇩",
   status:     "Open for Remote Work 🌏",

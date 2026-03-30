@@ -27,7 +27,7 @@ const [namaKamu] = {
 };
 ```
 
-- 🚀 Spesialis **Next.js** dan **React** untuk web modern
+- 🚀 Spesialis **Next.js** dan **React** untuk wskaoskoeb modern
 - 🌱 Sedang mendalami **TypeScript** dan **Tailwind CSS**
 - 💼 **Open for remote freelance** opportunities
 - ⚡ Fun fact: Aku percaya kode yang bersih = pikiran yang bersih

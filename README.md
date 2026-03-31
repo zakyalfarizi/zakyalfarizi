@@ -72,9 +72,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zakyalfarizi&theme=highcontrast)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>
-</div>
 
 ###
 
@@ -87,3 +84,7 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>
+</div>

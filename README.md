@@ -68,7 +68,17 @@
 
 <p align="left">Email: your@email.com  <br>Instagram: link<br>LinkedIn: link  <br>Personal Portfolio Website: link</p>
 
+<h2 align="left">📈GitHub Stats</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zakyalfarizi&theme=highcontrast)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>
+</div>
+
 ###
+
+<h2 align="left">🎮 Play games with me</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakyalfarizi/output/pacman-contribution-graph-dark.svg">
@@ -77,12 +87,3 @@
 </picture>
 
 ###
-
-
-<h2 align="left">📈GitHub Stats</h2>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakyalfarizi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zakyalfarizi)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>
-</div>

@@ -71,12 +71,17 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakyalfarizi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakyalfarizi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zakyalfarizi/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+
+
+<h2 align="left">📈GitHub Stats</h2>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakyalfarizi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zakyalfarizi)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>

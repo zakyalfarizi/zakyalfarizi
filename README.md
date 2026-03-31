@@ -1,117 +1,82 @@
-# Hi there, I'm [Nama Kamu]! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C47FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Next.js+Specialist+%E2%9A%A1;Building+Clean+%26+Fast+UI;Open+for+Remote+Work+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="img/github-header-banner.png" alt="Header My Account Github" />
 </div>
 
-<br/>
+<h2 align="left">🙋‍♂️ About me</h2>
 
-<div align="center">
+###
 
-![Profile Views](https://komarev.com/ghpvc/?username=[username-github-kamu]&color=6c47ff&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/[username-github-kamu]?style=flat&color=6c47ff)](https://github.com/[username-github-kamu])
+<p align="left">Frontend Developer focused on building scalable and high-performance web applications using Next.js and React.<br><br>I enjoy solving real-world problems and creating user-friendly interfaces. Currently preparing for remote opportunities in global tech companies.</p>
 
+###
+
+<h2 align="left">🌌 TECH STACK</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 </div>
 
----
+###
 
-## 🙋‍♂️ About Me
+<h2 align="left">💻 FEATURED PROJECTS</h2>
 
-```javascript
-const [namaKamu] = {
-  role:       "Frontend Developer with Next Js",
-  specialist: "Next.js & React",
-  location:   "[Kota Kamu], Indonesia 🇮🇩",
-  status:     "Open for Remote Work 🌏",
-  goal:       "Building fast, clean, and pixel-perfect UIs",
-};
-```
+###
 
-- 🚀 Spesialis **Next.js** dan **React** untuk wskaoskoeb modern
-- 🌱 Sedang mendalami **TypeScript** dan **Tailwind CSS**
-- 💼 **Open for remote freelance** opportunities
-- ⚡ Fun fact: Aku percaya kode yang bersih = pikiran yang bersih
+<p align="left">Project Name<br><br>Short description (apa yang kamu buat)<br><br>Key Value:<br>- Apa manfaatnya<br>- Kenapa ini berguna di dunia nyata<br><br>Tech:<br>Next.js, Tailwind, API<br><br>Live Demo | Source Code</p>
 
----
+###
 
-## 🛠️ Tech Stack
+<h2 align="left">💼 WHAT YOU’RE DOING NOW</h2>
 
-**Sudah Dikuasai:**
+###
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="left">- Building fullstack apps with Next.js<br>- Learning advanced frontend architecture<br>- Improving performance and scalability</p>
 
-**Sedang Dipelajari:**
+###
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<h2 align="left">📬 CONTACT (PROFESSIONAL)</h2>
 
-**Tools:**
+###
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">Email: your@email.com  <br>Instagram: link<br>LinkedIn: link  <br>Personal Portfolio Website: link</p>
 
----
+###
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zakyalfarizi/zakyalfarizi/output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[username-github-kamu]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-github-kamu]&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-github-kamu]&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ [Nama Project 1]
-> [Deskripsi singkat project — 1 kalimat aja, jelasin apa yang dibuat]
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-6c47ff?style=for-the-badge)](https://[link-demo-kamu].vercel.app)
-[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-black?style=for-the-badge)](https://github.com/[username]/[nama-repo])
-
----
-
-### 📊 [Nama Project 2]
-> [Deskripsi singkat project — 1 kalimat aja]
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-6c47ff?style=for-the-badge)](https://[link-demo-kamu].vercel.app)
-[![Source Code](https://img.shields.io/badge/📁_Source_Code-GitHub-black?style=for-the-badge)](https://github.com/[username]/[nama-repo])
-
----
-
-## 📫 Let's Connect!
-
-> Aku open untuk remote work, freelance project, atau sekadar ngobrol soal tech!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[email-kamu@gmail.com])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[username-linkedin-kamu])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[username-instagram-kamu])
-
-</div>
-
----
+###
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6c47ff&height=100&section=footer"/>
